@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulroheem Busari
-- 👀 I’m interested Data Ebineering and Analytics topic areas
-- 🌱 I’m currently learning Machine Learning, Apache Spark
+- 👀 I’m interested Data Enineering and Analytics topic areas
+- 🌱 I’m currently learing DBT and PYSpark
 - 💞️ I’m looking to collaborate on any interesting topic
 - 📫 Reach me through Bdoulroheem@gmail.com
 - 
