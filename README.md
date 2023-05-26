@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulroheem Busari
 - 👀 I’m interested Data Enineering and Analytics topic areas
-- 🌱 I’m currently learing DBT and PYSpark
+- 🌱 I’m currently learing DBT and Airflow
 - 💞️ I’m looking to collaborate on any interesting topic
 - 📫 Reach me through Bdoulroheem@gmail.com
 - 
