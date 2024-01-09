@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>MS PowerBI Analyst | Data Analytics Engineer | SQL Developer</h2>
+<h2 align="left">Hi 👋!<br>MS PowerBI Analyst | Analytics Engineer | SQL Developer</h2>
 
 ###
 
